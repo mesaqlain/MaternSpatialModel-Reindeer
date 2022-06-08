@@ -1,5 +1,5 @@
 # MaternSpatialModel-Reindeer
-R Scripts to estimate parameters for Reindeer Dataset (Skarin and Alam 2017), results included in original research manuscript by Saqlain, Rönnegårda, Alam, and Skarin
+R Scripts to estimate parameters for Reindeer Dataset (Skarin and Alam 2017), results included in original research manuscript by Saqlain, Rönnegård, Alam, and Skarin
 
 Spatial Analysis of Reindeer data (Skarin & Alam 2017)
 
