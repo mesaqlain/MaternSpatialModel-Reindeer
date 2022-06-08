@@ -6,10 +6,10 @@ Spatial Analysis of Reindeer data (Skarin & Alam 2017)
 To perform analysis on the Reindeer data, need the following:
 
 ## R packages used:
-- Matrix
-- lgcp (for circulant() function)
-- tidyverse (for data cleaning)
-- dplyr (for data cleaning)
+- **Matrix**
+- **lgcp** (for circulant() function)
+- **tidyverse** (for data cleaning)
+- **dplyr** (for data cleaning)
 
 ## Scripts with functions:
 
@@ -21,14 +21,14 @@ To perform analysis on the Reindeer data, need the following:
 - **HL_Correction.R**: HL Correction file
 
 ## Scripts to run analysis on Reindeer dataset:
-- ReindeerDataset.R: Script to load and clean the dataset
-- ST_Prepare_Data.R: Script to clean and setup the dataset for ST region only, details in the script
-- ST_All_Years_NoPrecip.R: Script to estimate parameters for ST region only, details in the script
-- JO_Prepare_Data.R: Script to clean and setup the dataset for JO region only, details in the script
-- JO_All_Years_NoPrecip.R: Script to estimate parameters for JO region only, details in the script
+- **ReindeerDataset.R**: Script to load and clean the dataset
+- **ST_Prepare_Data.R**: Script to clean and setup the dataset for ST region only, details in the script
+- **ST_All_Years_NoPrecip.R**: Script to estimate parameters for ST region only, details in the script
+- **JO_Prepare_Data.R**: Script to clean and setup the dataset for JO region only, details in the script
+- **JO_All_Years_NoPrecip.R**: Script to estimate parameters for JO region only, details in the script
 
 ## Dataset file:
-- Pellet_2010_2015_2.RData
+- **Pellet_2010_2015_2.RData** (not included here)
 
 ## Directions:
 **Step 1:**
